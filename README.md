@@ -1,6 +1,22 @@
-## Hi there 👋
+# Sangmin Lee
+
+[![forthebadge](http://forthebadge.com/images/badges/made-with-php.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
+This `Sangmin Lee project` is a personal page where a student at `YEUNGJIN CYBER UNIVERSITY? Coll?` can be proud to be an incredibly beautiful project designed to showcase the school's project.
+
+*Most of the home work will be up here after the semester, so if you want to see my dark history, feel free to look around.*
+
+- 🔭 I’m currently studied on ...
+  - YEUNGJIN CYBER UNIVERSITY
+
+- 🌱 I’m currently learning ...
+  - IT-related subjects
+
+
 
 <!--
+## Hi there 👋
 **CodeEatter/CodeEatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
